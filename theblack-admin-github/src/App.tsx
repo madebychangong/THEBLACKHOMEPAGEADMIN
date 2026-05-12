@@ -32,10 +32,10 @@ import type { CatalogData, LiveStats, PriceItem, PriceSection, TemplateStyle } f
 
 const styleMeta: Record<TemplateStyle, { label: string; tone: string }> = {
   basic: { label: "기본", tone: "정돈된 기본 가격" },
-  recommended: { label: "추천 강조", tone: "상담 유도 상품" },
+  recommended: { label: "추천 상품", tone: "상담 유도 상품" },
   popular: { label: "인기 상품", tone: "조회가 많은 상품" },
   paused: { label: "품절/중지", tone: "잠시 중단된 상품" },
-  event: { label: "이벤트 가격", tone: "한정/할인 상품" }
+  event: { label: "EVENT", tone: "한정/할인 상품" }
 };
 
 const styleOptions = Object.keys(styleMeta) as TemplateStyle[];
