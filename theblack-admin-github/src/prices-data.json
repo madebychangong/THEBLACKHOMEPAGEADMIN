@@ -1,0 +1,249 @@
+{
+  "site": {
+    "brand": "더블랙샵",
+    "title": "디4 시세표",
+    "subtitle": "빠르게 확인하고, 필요한 상품은 카톡으로 바로 상담하세요.",
+    "notice": "저보다 저렴한 곳 있으면 편하게 말씀해주세요.",
+    "hours": "영업시간: 10:00 - 익일 02:00",
+    "kakaoOneToOneUrl": "https://open.kakao.com/o/gWbuthWf",
+    "kakaoGroupUrl": "https://open.kakao.com/o/g8JqBqLg",
+    "tags": ["대기X출발", "최저가대응", "재고확인", "빠른답변"]
+  },
+  "products": [
+    {
+      "icon": "⭐️",
+      "name": "신화 장난꾸러기",
+      "description": "바로출발 대기X / 신화템 1개 + 벼락불 1개 드랍",
+      "badge": "바로출발",
+      "rows": [
+        { "label": "1회", "price": "4,000원" },
+        { "label": "5회", "price": "16,000원" },
+        { "label": "10회", "price": "28,000원" },
+        { "label": "20회", "price": "55,000원" }
+      ]
+    },
+    {
+      "icon": "⭐️",
+      "name": "보물틈새",
+      "description": "바로출발 대기X / 니스, 분광경, 옵두, 각종 재료 드랍",
+      "badge": "바로출발",
+      "rows": [
+        { "label": "1회", "price": "3,000원" },
+        { "label": "5회", "price": "9,000원" },
+        { "label": "10회", "price": "14,000원" },
+        { "label": "20회", "price": "26,000원" }
+      ]
+    },
+    {
+      "icon": "⭐️",
+      "name": "신화병기 공물 버스",
+      "description": "바로출발 대기X / 판당 신화템 1-4개 랜덤 드랍",
+      "badge": "바로출발",
+      "rows": [
+        { "label": "1회", "price": "7,000원" },
+        { "label": "5회", "price": "25,000원" },
+        { "label": "10회", "price": "48,000원" }
+      ]
+    },
+    {
+      "icon": "⭐️",
+      "name": "잊힌영혼",
+      "description": "바닥거래",
+      "badge": "",
+      "rows": [
+        { "label": "1000개", "price": "7,000원" },
+        { "label": "2000개", "price": "13,000원" },
+        { "label": "3000개", "price": "19,000원" },
+        { "label": "5000개", "price": "33,000원" }
+      ]
+    },
+    {
+      "icon": "⭐️",
+      "name": "쿨레 조율된 분광경",
+      "description": "",
+      "badge": "",
+      "rows": [
+        { "label": "100개", "price": "12,000원" }
+      ]
+    },
+    {
+      "icon": "⭐️",
+      "name": "엔트로피/공격적인/숙련자/다채로운 등",
+      "description": "",
+      "badge": "",
+      "rows": [
+        { "label": "300개", "price": "12,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "골드",
+      "description": "",
+      "badge": "재화",
+      "rows": [
+        { "label": "100억", "price": "3,000원" },
+        { "label": "200억", "price": "4,000원" },
+        { "label": "300억", "price": "5,000원" },
+        { "label": "500억", "price": "8,000원" },
+        { "label": "900억", "price": "12,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "껍데기",
+      "description": "",
+      "badge": "재료",
+      "rows": [
+        { "label": "100개", "price": "8,000원" },
+        { "label": "200개", "price": "15,000원" },
+        { "label": "300개", "price": "24,000원" },
+        { "label": "500개", "price": "35,000원" },
+        { "label": "1000개", "price": "50,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "하급 소굴열쇠",
+      "description": "",
+      "badge": "열쇠",
+      "rows": [
+        { "label": "100개", "price": "3,000원" },
+        { "label": "200개", "price": "5,000원" },
+        { "label": "500개", "price": "9,000원" },
+        { "label": "1000개", "price": "14,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "상급 소굴열쇠",
+      "description": "",
+      "badge": "열쇠",
+      "rows": [
+        { "label": "100개", "price": "3,000원" },
+        { "label": "200개", "price": "5,000원" },
+        { "label": "500개", "price": "9,000원" },
+        { "label": "1000개", "price": "14,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "각종 부적세트 or 문장",
+      "description": "도가니 자원125 / 삼중의 감전20 등 모든 부적세트. 부적스킬어픽 세트도 있어요.",
+      "badge": "문의",
+      "rows": [
+        { "label": "각종 부적세트", "price": "가격 문의" },
+        { "label": "문장", "price": "가격 문의" },
+        { "label": "부적스킬어픽 세트", "price": "가격 문의" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "각종 룬세트",
+      "description": "섞어가능 / 샤코, 별반, 한아비, 궤멸자, 셀리그, 영벌, 수의",
+      "badge": "섞어가능",
+      "rows": [
+        { "label": "1set", "price": "5,000원" },
+        { "label": "3set", "price": "9,000원" },
+        { "label": "5set", "price": "13,000원" },
+        { "label": "10set", "price": "20,000원" },
+        { "label": "개별룬 1개당", "price": "1,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "웅장한 보석",
+      "description": "종류 선택가능",
+      "badge": "보석",
+      "rows": [
+        { "label": "10개", "price": "5,000원" },
+        { "label": "20개", "price": "8,000원" },
+        { "label": "50개", "price": "14,000원" },
+        { "label": "100개", "price": "22,000원" },
+        { "label": "200개", "price": "40,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "호라드림 보석",
+      "description": "종류 선택가능",
+      "badge": "보석",
+      "rows": [
+        { "label": "1개", "price": "3,000원" },
+        { "label": "5개", "price": "9,000원" },
+        { "label": "10개", "price": "16,000원" },
+        { "label": "20개", "price": "30,000원" }
+      ]
+    },
+    {
+      "icon": "💛",
+      "name": "온전한 호라드림 보석",
+      "description": "종류 선택가능",
+      "badge": "보석",
+      "rows": [
+        { "label": "1개", "price": "5,000원" },
+        { "label": "5개", "price": "20,000원" },
+        { "label": "10개", "price": "35,000원" },
+        { "label": "20개", "price": "65,000원" }
+      ]
+    },
+    {
+      "icon": "❤️",
+      "name": "각종 우버보스 버스",
+      "description": "벨리알, 듀리엘, 바르샨, 야수, 안다, 지르 / 고행8 / 재료포함",
+      "badge": "버스",
+      "rows": [
+        { "label": "10판", "price": "12,000원" },
+        { "label": "20판", "price": "20,000원" }
+      ]
+    },
+    {
+      "icon": "❤️",
+      "name": "고행10 메피스토",
+      "description": "재료포함",
+      "badge": "버스",
+      "rows": [
+        { "label": "1회", "price": "8,000원" },
+        { "label": "5회", "price": "35,000원" },
+        { "label": "10회", "price": "65,000원" }
+      ]
+    },
+    {
+      "icon": "❤️",
+      "name": "렙업 정복자 버스 or 대행",
+      "description": "릴리트, 고행12, 만렙, 정복자, 나락 문양업",
+      "badge": "대행",
+      "rows": [
+        { "label": "고행8 릴리트 1회", "price": "4,000원" },
+        { "label": "고행12뚫", "price": "4,000원" },
+        { "label": "70렙 만렙 버스", "price": "6,000원" },
+        { "label": "70렙+정복자50", "price": "15,000원" },
+        { "label": "70렙+정복자100", "price": "25,000원" },
+        { "label": "70렙+정복자150", "price": "65,000원" },
+        { "label": "70렙+정복자200", "price": "120,000원" },
+        { "label": "나락 100단 문양업 버스 1시간당", "price": "9,000원" },
+        { "label": "나락 100단 문양업 버스 1판당", "price": "900원" }
+      ]
+    },
+    {
+      "icon": "❤️",
+      "name": "시즌여정 or 캠페인",
+      "description": "",
+      "badge": "대행",
+      "rows": [
+        { "label": "시즌 캠페인 챕터8 전부", "price": "35,000원" },
+        { "label": "시즌여정 9단계 전부", "price": "250,000원" }
+      ]
+    },
+    {
+      "icon": "❤️",
+      "name": "1티어 풀세팅",
+      "description": "모든 클래스 빌드",
+      "badge": "세팅",
+      "rows": [
+        { "label": "가성비세팅 / 나락60단 스펙", "price": "100,000원" },
+        { "label": "중급세팅 / 나락100단 스펙", "price": "200,000원" },
+        { "label": "엔드세팅 / 나락120단 스펙", "price": "350,000원" }
+      ]
+    }
+  ]
+}
